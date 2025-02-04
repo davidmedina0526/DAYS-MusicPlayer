@@ -1,4 +1,4 @@
-package main.java.edu.unisabana.dyas.patterns.utils;
+package edu.unisabana.dyas.patterns.utils;
 
 // Interfaz para el reproductor de audio
 public interface AudioPlayer {
